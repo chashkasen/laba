@@ -10,7 +10,7 @@ int main()
 
 	cin >> A >> B >> C;
 
-	if (A % B == 0)
+	if (A % B == 0 && B!=C)
 	{
 		if (B > C)
 			cout << A << "/" << B << "+" << C << "=" << A / B + C << endl;
