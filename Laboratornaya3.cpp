@@ -1,4 +1,5 @@
-﻿#include <iostream>
+// Моисеева Ксения, лабораторная #3, вариант 1
+#include <iostream>
 using std::cin; using std::cout; using std::endl;
 
 int main()
